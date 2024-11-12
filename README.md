@@ -26,13 +26,13 @@ now support:
 ### IEEE
 
 1. article
-![button_in_ieee_document.png](img%2Fbutton_in_ieee_document.png)
+![button_in_ieee_document.png](./img/button_in_ieee_document.png)
 2. search
-![button_in_ieee_search.png](img%2Fbutton_in_ieee_search.png)
+![button_in_ieee_search.png](./img/button_in_ieee_search.png)
 
 ### CNKI
 
 1. cnki document
-![button_in_cnki_document.png](img%2Fbutton_in_cnki_document.png)
+![button_in_cnki_document.png](./img/Fbutton_in_cnki_document.png)
 2. cnki search
-![button_in_cnki_search.png](img%2Fbutton_in_cnki_search.png)
+![button_in_cnki_search.png](./img/button_in_cnki_search.png)
