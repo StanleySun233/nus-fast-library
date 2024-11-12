@@ -11,8 +11,15 @@ now support:
   - Article
 
 ## How to use
-1. clone and import.
-2. download latest package and unzip.
+- [x] download and import.
+  1. [download](https://codeload.github.com/StanleySun233/nus-fast-library/zip/refs/heads/main).
+  2. unzip it.
+  3. open chrome.
+  4. visit `chrome://extensions/`.
+  5. press `Load unpacked` and select your unzip folder.
+  6. use it.
+- [ ] download at [Chrome Extension](chrome://extensions/)
+
 
 ## Sample
 
