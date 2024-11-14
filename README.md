@@ -33,6 +33,6 @@ now support:
 ### CNKI
 
 1. cnki document
-![button_in_cnki_document.png](./img/Fbutton_in_cnki_document.png)
+![button_in_cnki_document.png](./img/button_in_cnki_document.png)
 2. cnki search
 ![button_in_cnki_search.png](./img/button_in_cnki_search.png)
