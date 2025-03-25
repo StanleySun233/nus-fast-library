@@ -40,6 +40,9 @@ window.addEventListener("load", () => {
           ).replace(
             "https://cnki.net/kns/Detail?",
             "https://chn-oversea-cnki-net.libproxy1.nus.edu.sg/kcms/detail/detail.aspx?"
+          ).replace(
+            "https://www.cnki.net",
+            "https://chn-oversea-cnki-net.libproxy1.nus.edu.sg/kcms/detail/detail.aspx?"
           );
           window.open(proxyUrl, "_blank");
         });
