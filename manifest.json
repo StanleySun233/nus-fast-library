@@ -7,20 +7,24 @@
   "content_scripts": [
     {
       "matches": ["https://ieeexplore.ieee.org/document/*"],
-      "js": ["ieee_document.js"]
+      "css": ["styles.css"],
+      "js": ["button.js", "ieee_document.js"]
     },
     {
       "matches": ["https://ieeexplore.ieee.org/search/*"],
-      "js": ["ieee_search.js"]
+      "css": ["styles.css"],
+      "js": ["button.js", "ieee_search.js"]
     },
     {
       "matches": [
         "https://chn.oversea.cnki.net/kcms/*",
         "https://chn.oversea.cnki.net/KCMS/*",
         "https://cnki.net/kcms/*",
-        "https://cnki.net/KCMS/*"
+        "https://cnki.net/KCMS/*",
+        "https://www.cnki.net/KCMS/*"
       ],
-      "js": ["cnki_kcms.js"]
+      "css": ["styles.css"],
+      "js": ["button.js", "cnki_kcms.js"]
     },
     {
       "matches": [
@@ -30,7 +34,8 @@
         "https://cnki.net/kns/defaultresult/index/*",
         "https://www.cnki.net/*"
       ],
-      "js": ["cnki_search.js"]
+      "css": ["styles.css"],
+      "js": ["button.js", "cnki_search.js"]
     }
   ],
   "icons": {
